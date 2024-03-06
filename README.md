@@ -36,7 +36,7 @@ This project aims to demonstrate the following key aspects:
 3. Run the main script:
 
    ```bash
-   ./text_to_speech.sh
+   bash text_to_speech.sh
    ```
 
    Follow the prompts to input text, give appropriate rate of speech, and pitch rate.
