@@ -39,7 +39,7 @@ This project aims to demonstrate the following key aspects:
    ./text_to_speech.sh
    ```
 
-   Follow the prompts to input text (underscore { _ } instead of space, i.e, e.g - "hello_world", instead of "hello world") , give appropriate rate of speech, and pitch rate.
+   Follow the prompts to input text, give appropriate rate of speech, and pitch rate.
 
 ## Lessons and Achievements
 
