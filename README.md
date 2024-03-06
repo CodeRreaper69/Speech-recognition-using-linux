@@ -24,7 +24,7 @@ This project aims to demonstrate the following key aspects:
 1. Clone the repository:
 
    ```bash
-   https://github.com/CodeRreaper69/Speech-recognition-using-linux
+   git clone https://github.com/CodeRreaper69/Speech-recognition-using-linux
    ```
 
 2. Navigate to the project directory:
@@ -39,7 +39,7 @@ This project aims to demonstrate the following key aspects:
    ./text_to_speech.sh
    ```
 
-   Follow the prompts to input text, rate of speech, and pitch rate.
+   Follow the prompts to input text with underscore( _ ) instead of space ( e.g - "hello_world", instead of "hello world" , rate of speech, and pitch rate.
 
 ## Lessons and Achievements
 
