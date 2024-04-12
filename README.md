@@ -33,12 +33,19 @@ This project aims to demonstrate the following key aspects:
    cd Speech-Recognition-with-Linux
    ```
 
-3. Run the main script:
+3. Run the installation script
 
+   ```bash
+   bash req.sh
+   ```
+4. Run the main script after sucessfull installation
    ```bash
    bash text_to_speech.sh
    ```
-
+5.For no sudo platforms, for the installation
+```bash
+bash req_no.sh
+```
    Follow the prompts to input text, give appropriate rate of speech, and pitch rate.
 
 ## Lessons and Achievements
